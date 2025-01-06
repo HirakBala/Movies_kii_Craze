@@ -1,8 +1,11 @@
 # Movies_kii_Craze
 
 Flow,
+
 I made a connection between python and mysql workbench named as sql connnection. This allows me to export the dataset from csv to sql.
+
 Then once my analysis has been done on sql I saved the sql file as TMDB dataset.
+
 After that for advanced analysis I again created a connection between sql and python and transformed the sql script to a dataframe named as sql analyzed.
 
 All steps listed below,
